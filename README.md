@@ -6,5 +6,5 @@
 <code>Name</code>
 <code>Website URL</code>
 <h3>
-  After your request is accepted your name will be shown on list.json with your site which includes an ad of your site.
+  After your request is accepted your name will be shown on list.json with your site posted on our site.
 </h3>
